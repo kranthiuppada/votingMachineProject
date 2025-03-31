@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/Users/Kranthi Uppada/vote/vote.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+C:/Users/Kranthi Uppada/vote/vote.srcs/sim_1/new/votingMachine_tb.v,1743451424,verilog,,,,votingMachine_tb,,,,,,,,
+C:/Users/Kranthi Uppada/vote/vote.srcs/sources_1/new/buttonControl.v,1743450414,verilog,,C:/Users/Kranthi Uppada/vote/vote.srcs/sources_1/new/modeControl.v,,buttonControl,,,,,,,,
+C:/Users/Kranthi Uppada/vote/vote.srcs/sources_1/new/modeControl.v,1743450465,verilog,,C:/Users/Kranthi Uppada/vote/vote.srcs/sources_1/new/voteLogger.v,,modeControl,,,,,,,,
+C:/Users/Kranthi Uppada/vote/vote.srcs/sources_1/new/voteLogger.v,1743450445,verilog,,C:/Users/Kranthi Uppada/vote/vote.srcs/sources_1/new/votingMachine.v,,voteLogger,,,,,,,,
+C:/Users/Kranthi Uppada/vote/vote.srcs/sources_1/new/votingMachine.v,1743450360,verilog,,C:/Users/Kranthi Uppada/vote/vote.srcs/sim_1/new/votingMachine_tb.v,,votingMachine,,,,,,,,

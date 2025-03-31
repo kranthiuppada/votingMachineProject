@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../vote.srcs/sources_1/new/buttonControl.v" \
+"../../../../vote.srcs/sources_1/new/modeControl.v" \
+"../../../../vote.srcs/sources_1/new/voteLogger.v" \
+"../../../../vote.srcs/sources_1/new/votingMachine.v" \
+"../../../../vote.srcs/sim_1/new/votingMachine_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
