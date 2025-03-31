@@ -151,3 +151,6 @@ Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
 // Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2024.2/data/ip'. 
 // Tcl Message: open_project: Time (s): cpu = 00:00:20 ; elapsed = 00:00:19 . Memory (MB): peak = 1182.395 ; gain = 84.375 
 // Project name: vote; location: C:/Users/Kranthi Uppada/vote; part: xc7k70tfbv676-1
+dismissDialog("Open Project"); // bh (Open Project Progress)
+// Tcl Message: update_compile_order -fileset sources_1 
+// [GUI Memory]: 156 MB (+595kb) [00:16:49]

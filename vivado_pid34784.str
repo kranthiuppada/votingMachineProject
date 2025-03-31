@@ -149,3 +149,7 @@ Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
 // [GUI Memory]: 149 MB (+27067kb) [00:00:52]
 // WARNING: HEventQueue.dispatchEvent() is taking  10679 ms.
 // HMemoryUtils.trashcanNow. Engine heap size: 797 MB. GUI used memory: 76 MB. Current time: 4/1/25, 2:40:19 AM IST
+// Tcl Message: open_project: Time (s): cpu = 00:00:23 ; elapsed = 00:00:21 . Memory (MB): peak = 1202.781 ; gain = 113.254 
+// Project name: vote; location: C:/Users/Kranthi Uppada/vote; part: xc7k70tfbv676-1
+dismissDialog("Open Project"); // bh (Open Project Progress)
+// Tcl Message: update_compile_order -fileset sources_1 
