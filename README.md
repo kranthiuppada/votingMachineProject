@@ -47,7 +47,7 @@ The following waveform represents the testbench simulation results:
 
 
 ![Simulation Results](Screenshot%20(241).png)
-
+![Simulation Results](Screenshot%20(252).png)
 
 
 
